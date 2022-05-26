@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JAbsolu
+- 👋 Hi, I’m Johnson Absolu
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning Javascript & React
 - 💞️ I’m looking to collaborate on frontend related projects
